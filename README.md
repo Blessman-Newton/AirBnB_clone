@@ -140,7 +140,7 @@ You can deploy this project using by transfering files in your local repository 
 
 - GitHub: [@Author2](https://github.com/BigDonne)
 - Twitter: [@Author2](https://twitter.com/donne_agbesi)
-- LinkedIn: [Author2](https://www.linkedin.com/in/donne-agbesi-7b325577)
+- LinkedIn: [Author2](https://linkedin.com/in/donne-agbesi-7b325577)
 - 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
