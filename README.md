@@ -138,9 +138,9 @@ You can deploy this project using by transfering files in your local repository 
 
  **Author2**
 
-- GitHub: [@Author2](https://github.com/Author2)
-- Twitter: [@Author2](https://twitter.com/Author2)
-- LinkedIn: [Author2](https://linkedin.com/in/Author2)
+- GitHub: [@Author2](https://github.com/BigDonne)
+- Twitter: [@Author2](https://twitter.com/donne_agbesi)
+- LinkedIn: [Author2](https://www.linkedin.com/in/donne-agbesi-7b325577)
 - 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
